@@ -9,7 +9,7 @@ Proposed Github organization:
 * The [EarthCube](https://github.com/earthcube) organization will be used to collect and manage any existing codebases/repositories officially maintained by the Earth Cube Office (ECO). 
 * The [EarthCube Incubator](https://github.com/earthcube-incubator) organization will be used to provide community space for project and award-based repositoriess that don't otherwise have a home. 
 
-## Known existing organizations repositories
+## Known existing organizations/repositories
 
 We are evaluating the following organizations and repositories to begin a path of migration or documentation, including:
 
