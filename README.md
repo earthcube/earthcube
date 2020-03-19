@@ -1,6 +1,6 @@
 # EarthCube
 
-This reposistory has been establiehd to provide a central place to capture information related to the https://www.earthcube.org community and initiative.  Please feel free to file any general [issues](https://github.com/earthcube/earthcube/issues) related to the EC website, projects, software, and they will be moved to the appropriate repository.
+This reposistory has been established to provide a central place to capture information related to the https://www.earthcube.org community and initiative.  Please feel free to file any general [issues](https://github.com/earthcube/earthcube/issues) related to the EC website, projects, software, and they will be moved to the appropriate repository.
 
 
 ## Github Organization
