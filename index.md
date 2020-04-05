@@ -17,7 +17,8 @@ We are evaluating the following organizations and repositories to begin a path o
 
 ### Projects funded by NCAR EarthCube office
 
-* https://github.com/earthcubearchitecture-project418
+* [EarthCube Architecture - Project 418 organization](https://github.com/earthcubearchitecture-project418)
+    * Demonstrating HTML5 microdata to publish schema.org metadata on dataset landing pages, and harvest the metadata to drive discovery applications. Development of conventions for using schema.org vocabulary for datasets, and extensions to fill gaps in the vocabulary where necessary. 
 * https://github.com/earthcubearchitecture-project418gui
 * https://github.com/earthcubearchitecture-project419
 * https://github.com/earthcubearchitecture-ecprojects
