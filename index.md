@@ -27,5 +27,5 @@ We are evaluating the following organizations and repositories to begin a path o
 
 This is a listing of Github repositories created by EarthCube projects, hosting software or other digital resource development to support funded projects.
 
-* [Formatted inventory view](https://github.com/earthcube/earthcube/blob/master/RepositoryInventory.html)
+* [Formatted inventory view](https://earthcube.github.io/earthcube/RepositoryInventory.html)
 * [Raw csv file for inventory](https://raw.githubusercontent.com/earthcube/earthcube/gh-pages/ECGitRepositoryInventory.csv)
