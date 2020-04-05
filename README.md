@@ -13,6 +13,8 @@ Proposed Github organization:
 
 We are evaluating the following organizations and repositories to begin a path of migration or documentation, including:
 
+### Projects funded by NCAR EarthCube office
+
 * https://github.com/earthcubearchitecture-project418
 * https://github.com/earthcubearchitecture-project418gui
 * https://github.com/earthcubearchitecture-project419
