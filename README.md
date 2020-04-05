@@ -12,3 +12,10 @@ Proposed Github organization:
 
 This readme file is in the master branch of the main earthcube repository for information only. More detailed documentation and information will be maintained at 
 [https://earthcube.github.io/earthcube/](https://earthcube.github.io/earthcube/), with content managed in the gh-pages branch of this repository. Activate the gh-pages branch to see the website content. 
+
+# Repositories for EarthCube Organization
+
+- earthcube (current repository). Hosts the [https://earthcube.github.io/earthcube/](https://earthcube.github.io/earthcube/) content on the gh-pages branch, which is set as the default branch.
+- template. Template files and directory structure recommended for new EarthCube project.
+- 2014-15Documents.  Legacy documents from Original EarthCube office. Mostly superseded, maintained here for history.
+
