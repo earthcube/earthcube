@@ -1,6 +1,6 @@
 <html lang='en' dir='ltr' prefix='content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#'>
 <head>
-	<title> Display CSV file </title>
+	<title> EarthCube Github repositories </title>
 	<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 	<style media='print'>  #sb-container {position: relative;}  #sb-overlay {	display: none; } #sb-wrapper {	position: relative; top: 0;  left: 0; }	 #sb-loading { display: none; }</style>
 	<link type='text/css' rel='stylesheet' href='https://www.earthcube.org/sites/default/files/css/css_TG5DXiD9Lc9zdaVuEpY58yUod1OkYNX3ujjNAC1C_M4.css'	media='all'/>
@@ -35,7 +35,7 @@
 
 	<script language = "JavaScript">
 	//This script reads the csv file containing the repository inventory from github, and formats a web page with repository descriptions.
-		var dataURL = "https://raw.githubusercontent.com/earthcube/earthcube/master/ECGitRepositoryInventory.csv";
+		var dataURL = "https://raw.githubusercontent.com/earthcube/earthcube/gh-pages/ECGitRepositoryInventory.csv";
 		var request = new XMLHttpRequest();
 		var reader = new FileReader();
 		request.open('GET', dataURL, true);
