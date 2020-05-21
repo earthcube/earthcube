@@ -4,6 +4,8 @@ This repository has been established to provide a central place to capture infor
 
 The EarthCube office maintains this repository.
 
+Have a look at [Specifications - summary for the geosciences community](https://docs.google.com/document/d/158z6ebbpA_k-oEawZw4xgm527GJGDHVw0Y94cuS0OIk) for current guidelines on ways to make your EarthCube software interoperable.
+
 
 ## Github Organization
 Proposed Github organization:
@@ -28,7 +30,9 @@ Several GitHub organizations have been established by the EarthCube office, each
 
 ### Inventory of EarthCube project repositories
 
-This is a listing of Github repositories created by EarthCube projects, hosting software or other digital resource development to support funded projects.  The inventory includes repositories hosted by the organizations listed above, as well as projects funded through the EarthCube NSF proposal process.
+The EarthCube office is updating the EarthCube organization on GitHub. Our goal is that the EC GitHub Organization should host repositories for EarthCube projects and products as a means of branding and providing a location to point people to when they want to know ‘what’s there’?  The GitHub EarthCube Organization would be intended for the more technical/developer EarthCube user, paralleling the EarthCube Tools Inventory, which is intended for the scientist/research user. 
+
+For more information on what we are recommending from Earth Cube Projects, see [EarthCube GitHub Recommendations](https://docs.google.com/document/d/1j5XRXSVjTnPTzmaxuHX3Ce8eVPwTpanh3sSdQPagt94).  A listing of Github repositories created by EarthCube projects, hosting software or other digital resource development to support funded projects is linked below.  The inventory includes repositories hosted by the organizations listed above, as well as projects funded through the EarthCube NSF proposal process.
 
 * [Formatted inventory view](https://earthcube.github.io/earthcube/RepositoryInventory.html)
 * [Raw csv file for inventory](https://raw.githubusercontent.com/earthcube/earthcube/gh-pages/ECGitRepositoryInventory.csv)
