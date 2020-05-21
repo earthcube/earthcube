@@ -4,7 +4,7 @@ This repository has been established to provide a central place to capture infor
 
 The EarthCube office maintains this repository.
 
-Have a look at [Specifications - summary for the geosciences community](https://docs.google.com/document/d/158z6ebbpA_k-oEawZw4xgm527GJGDHVw0Y94cuS0OIk) for current guidelines on ways to make your EarthCube software interoperable.
+Have a look at [Recommended Standards and Specifications for EarthCube Projects](https://docs.google.com/document/d/10mbjwMeD6yB3qm-ZBcId3GycfHwbXoshf1Z_nMxvzPI) for current guidelines on ways to make your EarthCube software interoperable.
 
 
 ## Github Organization
